@@ -12,7 +12,7 @@ En este pair programming, nos hemos centrado en las siguientes áreas principale
 
 -	Extracción de Datos usando SQL (Structured Query Language): hemos creado bases de datos, realizado modificaciones e inserciones.
 
-Contenido del Curso:
+Contenido de la extracción de datos:
 1.	. APIs
 •	Conceptos Básicos de API's.
 •	Identificación de Fuentes de Datos.
